@@ -6,4 +6,4 @@
 
 
 ### Exercise
-* [1.cpp](1.cpp)
+* [2_1.cpp](2_1.cpp)
