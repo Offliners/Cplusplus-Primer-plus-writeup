@@ -6,6 +6,7 @@
 * [getinfo.cpp](getinfo.cpp)
 * [sqrt.cpp](sqrt.cpp)
 * [outfunc.cpp](outfunc.cpp)
+* [convert.cpp](convert.cpp)
 
 ### Exercise
 * [2_1.cpp](2_1.cpp)
