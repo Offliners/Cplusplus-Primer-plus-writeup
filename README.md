@@ -10,4 +10,4 @@
 * Textbook
   - C++ Primer Plus, 6/e (中文版) (C++ Primer Plus, 6/e (Developer's Library)) (ISBN13 : `9789862766361`)
 
-![C++ Primer Plus 6/e]()
+![C++ Primer Plus 6/e](https://github.com/Offliners/Cplusplus-Primer-plus-writeup/blob/main/CplusplusPrimerplus.jpg)
