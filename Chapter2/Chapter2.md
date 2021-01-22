@@ -5,6 +5,7 @@
 * [carrots.cpp](carrots.cpp)
 * [getinfo.cpp](getinfo.cpp)
 * [sqrt.cpp](sqrt.cpp)
+* [outfunc.cpp](outfunc.cpp)
 
 ### Exercise
 * [2_1.cpp](2_1.cpp)
