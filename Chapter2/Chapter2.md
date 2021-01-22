@@ -3,7 +3,8 @@
 ### Example
 * [myfirst.cpp](myfirst.cpp)
 * [carrots.cpp](carrots.cpp)
-
+* [getinfo.cpp](getinfo.cpp)
+* [sqrt.cpp](sqrt.cpp)
 
 ### Exercise
 * [2_1.cpp](2_1.cpp)
