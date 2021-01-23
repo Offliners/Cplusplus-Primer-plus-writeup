@@ -11,5 +11,6 @@
 * [fltadd.cpp](fltadd.cpp)
 * [arith.cpp](arith.cpp)
 * [modulus.cpp](modulus.cpp)
+* [init.cpp](init.cpp)
 
 ### Exercise
