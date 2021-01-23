@@ -16,3 +16,4 @@
 * [typecast.cpp](typecast.cpp)
 
 ### Exercise
+* [3_1.cpp](3_1.cpp)
