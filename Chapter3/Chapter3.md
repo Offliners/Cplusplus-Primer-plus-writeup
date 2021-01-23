@@ -12,5 +12,6 @@
 * [arith.cpp](arith.cpp)
 * [modulus.cpp](modulus.cpp)
 * [init.cpp](init.cpp)
+* [typecast.cpp](typecast.cpp)
 
 ### Exercise
