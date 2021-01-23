@@ -6,5 +6,6 @@
 * [hexoct2.cpp](hexoct2.cpp)
 * [chartype.cpp](chartype.cpp)
 * [morechar.cpp](morechar.cpp)
+* [bondini.cpp](bondini.cpp)
 
 ### Exercise
