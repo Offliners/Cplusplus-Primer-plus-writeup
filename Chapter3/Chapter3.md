@@ -17,3 +17,9 @@
 
 ### Exercise
 * [3_1.cpp](3_1.cpp)
+* [3_2.cpp](3_2.cpp)
+* [3_3.cpp](3_3.cpp)
+* [3_4.cpp](3_4.cpp)
+* [3_5.cpp](3_5.cpp)
+* [3_6.cpp](3_6.cpp)
+* [3_7.cpp](3_7.cpp)
