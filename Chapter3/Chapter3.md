@@ -9,5 +9,6 @@
 * [bondini.cpp](bondini.cpp)
 * [floatnum.cpp](floatnum.cpp)
 * [fltadd.cpp](fltadd.cpp)
+* [arith.cpp](arith.cpp)
 
 ### Exercise
