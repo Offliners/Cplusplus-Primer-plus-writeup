@@ -8,5 +8,6 @@
 * [morechar.cpp](morechar.cpp)
 * [bondini.cpp](bondini.cpp)
 * [floatnum.cpp](floatnum.cpp)
+* [fltadd.cpp](fltadd.cpp)
 
 ### Exercise
