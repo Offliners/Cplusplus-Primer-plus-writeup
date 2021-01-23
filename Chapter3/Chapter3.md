@@ -2,5 +2,6 @@
 ### Example
 * [limits.cpp](limits.cpp)
 * [exceed.cpp](exceed.cpp)
+* [hexoct1.cpp](hexoct1.cpp)
 
 ### Exercise
