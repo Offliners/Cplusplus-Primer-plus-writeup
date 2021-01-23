@@ -10,5 +10,6 @@
 * [floatnum.cpp](floatnum.cpp)
 * [fltadd.cpp](fltadd.cpp)
 * [arith.cpp](arith.cpp)
+* [modulus.cpp](modulus.cpp)
 
 ### Exercise
