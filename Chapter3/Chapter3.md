@@ -5,5 +5,6 @@
 * [hexoct1.cpp](hexoct1.cpp)
 * [hexoct2.cpp](hexoct2.cpp)
 * [chartype.cpp](chartype.cpp)
+* [morechar.cpp](morechar.cpp)
 
 ### Exercise
