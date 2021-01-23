@@ -10,6 +10,7 @@
 * [floatnum.cpp](floatnum.cpp)
 * [fltadd.cpp](fltadd.cpp)
 * [arith.cpp](arith.cpp)
+* [divide.cpp](divide.cpp)
 * [modulus.cpp](modulus.cpp)
 * [init.cpp](init.cpp)
 * [typecast.cpp](typecast.cpp)
