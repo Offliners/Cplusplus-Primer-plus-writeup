@@ -17,6 +17,7 @@
 * [address.cpp](address.cpp)
 * [pointer.cpp](pointer.cpp)
 * [init_ptr.cpp](init_ptr.cpp)
+* [use_new.cpp](use_new.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
