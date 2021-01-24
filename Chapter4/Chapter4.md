@@ -24,6 +24,7 @@
 * [newstrct.cpp](newstrct.cpp)
 * [delete.cpp](delete.cpp)
 * [mixtypes.cpp](mixtypes.cpp)
+* [choices.cpp](choices.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
