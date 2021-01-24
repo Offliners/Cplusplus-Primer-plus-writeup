@@ -21,6 +21,7 @@
 * [arraynew.cpp](arraynew.cpp)
 * [addpntrs.cpp](addpntrs.cpp)
 * [ptrstr.cpp](ptrstr.cpp)
+* [newstrct.cpp](newstrct.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
