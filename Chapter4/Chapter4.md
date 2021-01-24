@@ -20,6 +20,7 @@
 * [use_new.cpp](use_new.cpp)
 * [arraynew.cpp](arraynew.cpp)
 * [addpntrs.cpp](addpntrs.cpp)
+* [ptrstr.cpp](ptrstr.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
