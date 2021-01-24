@@ -35,5 +35,7 @@ int main(void)
 	cout << "Snack calories : " << snack[2].cal << endl;
 	cout << endl;
 
+	delete[] snack;
+
 	return 0;
 }
