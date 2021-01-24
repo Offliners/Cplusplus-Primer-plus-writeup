@@ -9,6 +9,7 @@
 * [numstr.cpp](numstr.cpp)
 * [strtype1.cpp](strtype1.cpp)
 * [strtype2.cpp](strtype2.cpp)
+* [strtype3.cpp](strtype3.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
