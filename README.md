@@ -26,7 +26,7 @@ Note : Turn down Visual Studio Compiler Warning `C4996`
 ```
 _CRT_SECURE_NO_WARNINGS
 ```
-add this command to the Preprocessor of the project
+add this command to the preprocessor of the project
 
 ## Reference
 * Textbook
