@@ -22,6 +22,12 @@
 ## IDE
 * `Visual Studio 2019 Community`
 
+Note : Turn down Visual Studio Compiler Warning `C4996`
+```
+_CRT_SECURE_NO_WARNINGS
+```
+add this command to the Preprocessor of the project
+
 ## Reference
 * Textbook
   - C++ Primer Plus, 6/e (中文版) (C++ Primer Plus, 6/e (Developer's Library)) (ISBN13 : `9789862766361`)
