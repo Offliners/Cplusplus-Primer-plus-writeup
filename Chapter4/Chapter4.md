@@ -4,5 +4,6 @@
 * [arrayone.cpp](arrayone.cpp)
 * [strings.cpp](strings.cpp)
 * [instr1.cpp](instr1.cpp)
+* [instr2.cpp](instr2.cpp)
 
 ### Exercise
