@@ -23,6 +23,7 @@
 * [ptrstr.cpp](ptrstr.cpp)
 * [newstrct.cpp](newstrct.cpp)
 * [delete.cpp](delete.cpp)
+* [mixtypes.cpp](mixtypes.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
