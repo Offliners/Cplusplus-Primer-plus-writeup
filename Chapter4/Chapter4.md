@@ -12,6 +12,7 @@
 * [strtype3.cpp](strtype3.cpp)
 * [strtype4.cpp](strtype4.cpp)
 * [structur.cpp](structur.cpp)
+* [assgn_st.cpp](assgn_st.cpp)
 * [arrstruc.cpp](arrstruc.cpp)
 
 ### Exercise
