@@ -19,6 +19,7 @@
 * [init_ptr.cpp](init_ptr.cpp)
 * [use_new.cpp](use_new.cpp)
 * [arraynew.cpp](arraynew.cpp)
+* [addpntrs.cpp](addpntrs.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
