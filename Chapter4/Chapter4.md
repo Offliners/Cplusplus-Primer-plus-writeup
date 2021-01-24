@@ -11,4 +11,13 @@
 * [strtype2.cpp](strtype2.cpp)
 
 ### Exercise
-* [4_1cpp](4_1.cpp)
+* [4_1.cpp](4_1.cpp)
+* [4_2.cpp](4_2.cpp)
+* [4_3.cpp](4_3.cpp)
+* [4_4.cpp](4_4.cpp)
+* [4_5.cpp](4_5.cpp)
+* [4_6.cpp](4_6.cpp)
+* [4_7.cpp](4_7.cpp)
+* [4_8.cpp](4_8.cpp)
+* [4_9.cpp](4_9.cpp)
+* [4_10.cpp](4_10.cpp)
