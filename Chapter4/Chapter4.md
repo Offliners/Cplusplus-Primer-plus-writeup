@@ -15,6 +15,7 @@
 * [assgn_st.cpp](assgn_st.cpp)
 * [arrstruc.cpp](arrstruc.cpp)
 * [address.cpp](address.cpp)
+* [pointer.cpp](pointer.cpp)
 
 ### Exercise
 * [4_1.cpp](4_1.cpp)
