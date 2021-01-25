@@ -9,5 +9,6 @@
 * [support.cpp](support.cpp)
 * [twofile1.cpp](twofile1.cpp)
 * [twofile2.cpp](twofile2.cpp)
+* [static.cpp](static.cpp)
 
 ### Exercise
