@@ -16,3 +16,7 @@
 * [usenmsp.cpp](usenmsp.cpp)
 
 ### Exercise
+* [9_1.cpp](9_1.cpp)
+* [9_2.cpp](9_2.cpp)
+* [9_3.cpp](9_3.cpp)
+* [9_4.cpp](9_4.cpp)
