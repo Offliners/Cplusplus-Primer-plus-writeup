@@ -7,5 +7,7 @@
 * [autoscp.cpp](autoscp.cpp)
 * [external.cpp](external.cpp)
 * [support.cpp](support.cpp)
+* [twofile1.cpp](twofile1.cpp)
+* [twofile2.cpp](twofile2.cpp)
 
 ### Exercise
