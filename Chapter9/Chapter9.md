@@ -17,6 +17,8 @@
 
 ### Exercise
 * [9_1.cpp](9_1.cpp)
+* [golf.h](golf.h)
+* [golf.cpp](golf.cpp)
 * [9_2.cpp](9_2.cpp)
 * [9_3.cpp](9_3.cpp)
 * [9_4.cpp](9_4.cpp)
