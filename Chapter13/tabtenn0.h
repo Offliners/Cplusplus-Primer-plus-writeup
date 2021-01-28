@@ -1,5 +1,5 @@
-#ifndef TABTENN_H_
-#define TABTENN_H_
+#ifndef TABTENN0_H_
+#define TABTENN0_H_
 
 #include<string>
 
@@ -22,4 +22,4 @@ class TableTennisPlayer
 };
 
 
-#endif // !TABTENN_H_
+#endif // !TABTENN0_H_
