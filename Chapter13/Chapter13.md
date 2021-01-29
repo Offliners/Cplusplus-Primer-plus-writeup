@@ -10,5 +10,6 @@
 * [brass.h](brass.h)
 * [brass.cpp](brass.cpp)
 * [usebrass1.cpp](usebrass1.cpp)
+* [usebrass2.cpp](usebrass2.cpp)
 
 ### Example
