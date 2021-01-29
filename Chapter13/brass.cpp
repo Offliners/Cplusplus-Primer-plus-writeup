@@ -15,6 +15,14 @@ Brass::Brass(const string& s, long an, double bal)
 	balance = bal;
 }
 
+void Brass::Deposit(double amt)
+{
+	if (amt < 0)
+		cout << "Negative deposit not allowed; " << "deposit is cancelled.\n";
+	else
+		balance += amt;
+}
+
 void Brass::Withdraw(double amt)
 {
 	format initialState = setFormat();
