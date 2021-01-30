@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main(void)
 {
 	baseDMA shirt("Portabelly", 8);
 	lacksDMA balloon("red", "Blimpo", 4);
