@@ -12,5 +12,6 @@
 * [equal.cpp](equal.cpp)
 * [compstr1.cpp](compstr1.cpp)
 * [compstr2.cpp](compstr2.cpp)
+* [while.cpp](while.cpp)
 
 ### Exercise
