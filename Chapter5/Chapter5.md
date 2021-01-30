@@ -22,3 +22,13 @@
 * [nested.cpp](nested.cpp)
 
 ### Exercise
+* [5_1.cpp](5_1.cpp)
+* [5_2.cpp]
+* [5_3.cpp]
+* [5_4.cpp]
+* [5_5.cpp]
+* [5_6.cpp]
+* [5_7.cpp]
+* [5_8.cpp]
+* [5_9.cpp]
+* [5_10.cpp]
