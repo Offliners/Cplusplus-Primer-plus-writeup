@@ -6,7 +6,7 @@ using namespace std;
 
 const int CLIENTS = 4;
 
-int main()
+int main(void)
 {
 	AcctABC* p_clients[CLIENTS];
 	string temp;
