@@ -8,5 +8,6 @@
 * [forstr1.cpp](forstr1.cpp)
 * [plus_one.cpp](plus_one.cpp)
 * [block.cpp](block.cpp)
+* [forstr2.cpp](forstr2.cpp)
 
 ### Exercise
