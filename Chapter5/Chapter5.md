@@ -24,7 +24,7 @@
 ### Exercise
 * [5_1.cpp](5_1.cpp)
 * [5_2.cpp](5_2.cpp)
-* [5_3.cpp]
+* [5_3.cpp](5_3.cpp)
 * [5_4.cpp]
 * [5_5.cpp]
 * [5_6.cpp]
