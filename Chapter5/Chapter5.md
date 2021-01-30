@@ -11,5 +11,6 @@
 * [forstr2.cpp](forstr2.cpp)
 * [equal.cpp](equal.cpp)
 * [compstr1.cpp](compstr1.cpp)
+* [compstr2.cpp](compstr2.cpp)
 
 ### Exercise
