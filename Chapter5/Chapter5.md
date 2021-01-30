@@ -17,5 +17,6 @@
 * [dowhile.cpp](dowhile.cpp)
 * [textin1.cpp](textin1.cpp)
 * [textin2.cpp](textin2.cpp)
+* [textin3.cpp](textin3.cpp)
 
 ### Exercise
