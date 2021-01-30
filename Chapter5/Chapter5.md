@@ -9,5 +9,6 @@
 * [plus_one.cpp](plus_one.cpp)
 * [block.cpp](block.cpp)
 * [forstr2.cpp](forstr2.cpp)
+* [equal.cpp](equal.cpp)
 
 ### Exercise
