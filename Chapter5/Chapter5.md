@@ -14,5 +14,6 @@
 * [compstr2.cpp](compstr2.cpp)
 * [while.cpp](while.cpp)
 * [waiting.cpp](waiting.cpp)
+* [dowhile.cpp](dowhile.cpp)
 
 ### Exercise
