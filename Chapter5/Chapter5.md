@@ -7,5 +7,6 @@
 * [formore.cpp](formore.cpp)
 * [forstr1.cpp](forstr1.cpp)
 * [plus_one.cpp](plus_one.cpp)
+* [block.cpp](block.cpp)
 
 ### Exercise
