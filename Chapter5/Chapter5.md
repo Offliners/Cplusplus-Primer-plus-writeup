@@ -15,5 +15,6 @@
 * [while.cpp](while.cpp)
 * [waiting.cpp](waiting.cpp)
 * [dowhile.cpp](dowhile.cpp)
+* [textin1.cpp](textin1.cpp)
 
 ### Exercise
