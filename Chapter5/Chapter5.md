@@ -18,5 +18,6 @@
 * [textin1.cpp](textin1.cpp)
 * [textin2.cpp](textin2.cpp)
 * [textin3.cpp](textin3.cpp)
+* [textin4.cpp](textin4.cpp)
 
 ### Exercise
