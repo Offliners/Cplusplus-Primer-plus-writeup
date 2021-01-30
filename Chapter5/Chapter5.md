@@ -5,5 +5,6 @@
 * [num_test.cpp](num_test.cpp)
 * [express.cpp](express.cpp)
 * [formore.cpp](formore.cpp)
+* [forstr1.cpp](forstr1.cpp)
 
 ### Exercise
