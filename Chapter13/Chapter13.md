@@ -14,6 +14,9 @@
 * [acctabc.h](acctabc.h)
 * [acctabc.cpp](acctabc.cpp)
 * [usebrass3.cpp](usebrass3.cpp)
+* [dma.h](dma.h)
+* [dma.cpp](dma.cpp)
+* [usedma.cpp](usedma.cpp)
 
 ### Example
 * [13_1.cpp](13_1.cpp)
