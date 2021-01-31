@@ -19,5 +19,6 @@
 * [stckoptr1.cpp](stckoptr1.cpp)
 * [arraytp.h](arraytp.h)
 * [twod.cpp](twod.cpp)
+* [pairs.cpp](pairs.cpp)
 
 ### Exercise
