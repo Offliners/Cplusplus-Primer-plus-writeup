@@ -15,5 +15,7 @@
 * [workmi.cpp](workmi.cpp)
 * [stacktp.h](stacktp.h)
 * [stacktem.cpp](stacktem.cpp)
+* [stcktp1.h](stcktp1.h)
+* [stckoptr1.cpp](stckoptr1.cpp)
 
 ### Exercise
