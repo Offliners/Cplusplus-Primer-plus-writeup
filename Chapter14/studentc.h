@@ -32,4 +32,4 @@ class Student
 		friend ostream& operator<<(ostream& os, const Student& stu);
 };
 
-#endif
+#endif // !STUDENTC_H_
