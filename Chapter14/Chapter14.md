@@ -27,3 +27,8 @@
 * [manyfrnd.cpp](manyfrnd.cpp)
 
 ### Exercise
+* [14_1.cpp]
+* [14_2.cpp]
+* [14_3.cpp]
+* [14_4.cpp]
+* [14_5.cpp]
