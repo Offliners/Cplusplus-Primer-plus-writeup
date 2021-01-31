@@ -10,5 +10,6 @@
 * [queuetp.h](queuetp.h)
 * [nested.cpp](nested.cpp)
 * [error1.cpp](error1.cpp)
+* [error2.cpp](error2.cpp)
 
 ### Exercise
