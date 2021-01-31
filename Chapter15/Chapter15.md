@@ -11,5 +11,6 @@
 * [nested.cpp](nested.cpp)
 * [error1.cpp](error1.cpp)
 * [error2.cpp](error2.cpp)
+* [error3.cpp](error3.cpp)
 
 ### Exercise
