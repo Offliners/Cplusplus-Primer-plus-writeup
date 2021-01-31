@@ -22,5 +22,6 @@
 * [pairs.cpp](pairs.cpp)
 * [tempmemb.cpp](tempmemb.cpp)
 * [tempparm.cpp](tempparm.cpp)
+* [frnd2tmp.cpp](frnd2tmp.cpp)
 
 ### Exercise
