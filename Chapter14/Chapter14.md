@@ -17,5 +17,7 @@
 * [stacktem.cpp](stacktem.cpp)
 * [stcktp1.h](stcktp1.h)
 * [stckoptr1.cpp](stckoptr1.cpp)
+* [arraytp.h](arraytp.h)
+* [twod.cpp](twod.cpp)
 
 ### Exercise
