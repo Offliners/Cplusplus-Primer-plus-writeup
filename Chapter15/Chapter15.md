@@ -5,5 +5,7 @@
 * [tv.cpp](tv.cpp)
 * [use_tv.cpp](use_tv.cpp)
 * [tvfm.h](tvfm.h)
+* [tvfm.cpp](tvfm.cpp)
+* [use_tvfm.cpp](use_tvfm.cpp)
 
 ### Exercise
