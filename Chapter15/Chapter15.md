@@ -7,5 +7,7 @@
 * [tvfm.h](tvfm.h)
 * [tvfm.cpp](tvfm.cpp)
 * [use_tvfm.cpp](use_tvfm.cpp)
+* [queuetp.h](queuetp.h)
+* [nested.cpp](nested.cpp)
 
 ### Exercise
