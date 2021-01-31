@@ -10,5 +10,8 @@
 * [worker0.h](worker0.h)
 * [worker0.cpp](worker0.cpp)
 * [worktest.cpp](worktest.cpp)
+* [workermi.h](workermi.h)
+* [workermi.cpp](workermi.cpp)
+* [workmi.cpp](workmi.cpp)
 
 ### Exercise
