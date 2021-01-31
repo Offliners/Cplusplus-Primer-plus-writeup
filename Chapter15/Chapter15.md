@@ -14,5 +14,6 @@
 * [error3.cpp](error3.cpp)
 * [exc_mean.h](exc_mean.h)
 * [error4.cpp](error4.cpp)
+* [error5.cpp](error5.cpp)
 
 ### Exercise
