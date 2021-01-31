@@ -1,6 +1,6 @@
 # Chatper 13
 
-### Exercise
+### Example
 * [tabtenn0.h](tabtenn0.h)
 * [tabtenn0.cpp](tabtenn0.cpp)
 * [usett0.cpp](usett0.cpp)
@@ -18,7 +18,7 @@
 * [dma.cpp](dma.cpp)
 * [usedma.cpp](usedma.cpp)
 
-### Example
+### Exercise
 * [13_1.cpp](13_1.cpp)
 * [cd.h](cd.h)
 * [cd.cpp](cd.cpp)
