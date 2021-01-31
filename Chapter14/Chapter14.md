@@ -13,5 +13,7 @@
 * [workermi.h](workermi.h)
 * [workermi.cpp](workermi.cpp)
 * [workmi.cpp](workmi.cpp)
+* [stacktp.h](stacktp.h)
+* [stacktem.cpp](stacktem.cpp)
 
 ### Exercise
