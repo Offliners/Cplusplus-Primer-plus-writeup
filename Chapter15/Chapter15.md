@@ -24,3 +24,7 @@
 * [constcast.cpp](constcast.cpp)
 
 ### Exercise
+* [15_1.cpp]
+* [15_2.cpp]
+* [15_3.cpp]
+* [15_4.cpp]
