@@ -26,10 +26,10 @@ int main(void)
 
 		cout << "Please enter the make: ";
 		cin.getline((ct + i)->make, Size);
-
 		
 		cout << "Please enter the year made: ";
 		cin >> (ct + i)->year;
+		
 		cin.getline(temp, sizeof(temp));
 	}
 
