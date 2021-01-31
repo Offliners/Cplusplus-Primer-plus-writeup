@@ -16,5 +16,8 @@
 * [error4.cpp](error4.cpp)
 * [error5.cpp](error5.cpp)
 * [newexcp.cpp](newexcp.cpp)
+* [sales.h](sales.h)
+* [sales.cpp](sales.cpp)
+* [use_sales.cpp](use_sales.cpp)
 
 ### Exercise
