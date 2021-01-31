@@ -24,5 +24,6 @@
 * [tempparm.cpp](tempparm.cpp)
 * [frnd2tmp.cpp](frnd2tmp.cpp)
 * [tmp2tmp.cpp](tmp2tmp.cpp)
+* [manyfrnd.cpp](manyfrnd.cpp)
 
 ### Exercise
