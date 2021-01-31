@@ -10,7 +10,7 @@ int main(void)
 	int sales[n_months];
 	int sum = 0;
 
-	for (int i = 0; i < n_months; ++i)
+	for (int i = 0; i < n_months; i++)
 	{
 		cout << "Enter sales in " << months[i] << ": ";
 		
