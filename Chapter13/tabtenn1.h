@@ -13,8 +13,8 @@ class TableTennisPlayer
 		bool hasTable;
 	public:
 		TableTennisPlayer(const string& fn = "none",
-						  const string& ln = "none",
-						  bool ht = false);
+				const string& ln = "none",
+				bool ht = false);
 
 		void Name() const;
 		bool HasTable() const { return hasTable; };
