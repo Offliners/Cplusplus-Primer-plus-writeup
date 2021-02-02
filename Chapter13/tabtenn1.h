@@ -34,4 +34,4 @@ class RatedPlayer : public TableTennisPlayer
 };
 
 
-#endif // !TABTENN_H_
+#endif // !TABTENN1_H_
