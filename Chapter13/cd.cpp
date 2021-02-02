@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstring>
 #include"cd.h"
 
 using namespace std;
