@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstring>
 #include"classic.h"
 
 using namespace std;
