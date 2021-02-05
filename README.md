@@ -19,7 +19,7 @@
 * [Chapter 17]
 * [Chapter 18]
 
-## IDE
+## IDE & Usage
 * `Visual Studio 2019 Community`
 
 Note : Turn down Visual Studio Compiler Warning `C4996`
