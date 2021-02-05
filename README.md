@@ -28,6 +28,13 @@ _CRT_SECURE_NO_WARNINGS
 ```
 add this command to the preprocessor of the project
 
+* `Gitpod`
+```
+$ cd Chapter                                       // cd to the Chapter you want
+$ ./test                                           // run the executable file
+$ g++ -o file_name main.cpp header.h source.cpp    // compile the code
+```
+
 ## Reference
 * Textbook
   - C++ Primer Plus, 6/e (中文版) (C++ Primer Plus, 6/e (Developer's Library)) (ISBN13 : `9789862766361`)
