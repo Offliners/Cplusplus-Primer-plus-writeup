@@ -30,11 +30,12 @@ add this command to the preprocessor of the project
 
 * `Gitpod`
 ```
-$ cd Chapter                                       // cd to the Chapter you want
-$ ./test                                           // run the executable file
-$ g++ -o file_name main.cpp header.h source.cpp    // compile the code
-$ make                                             // compile all codes in this chapter
-$ make clean                                       // delete all .out file
+$ cd Chapter                                          // cd to the Chapter you want
+$ ./test.out                                          // run the executable file
+$ g++ -o file_name.out main.cpp                       // compile the code
+$ g++ -o file_name.out main.cpp header.h source.cpp   // compile the code with header file and source file
+$ make                                                // compile all codes in this chapter
+$ make clean                                          // delete all .out file
 ```
 
 ## Reference
