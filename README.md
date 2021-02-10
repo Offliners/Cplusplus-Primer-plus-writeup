@@ -38,7 +38,7 @@ $ make                                                // compile all codes in th
 $ make clean                                          // delete all .out file
 ```
 
-* Makedown
+* `Makedown`
 ```Makedown
 * name of executable file                             // name of executable file
   * [man.cpp](main.cpp)                               // code
