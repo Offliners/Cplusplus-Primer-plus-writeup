@@ -1,5 +1,7 @@
 # Chapter 2
 
+* [Makefile](Makefile)
+
 ### Example
 * #### myfirst
     * [myfirst.cpp](myfirst.cpp)
