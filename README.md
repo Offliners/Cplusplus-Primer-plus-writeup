@@ -38,6 +38,12 @@ $ make                                                // compile all codes in th
 $ make clean                                          // delete all .out file
 ```
 
+* Makedown
+```Makedown
+* name of executable file                             // name of executable file
+  * [man.cpp](main.cpp)                               // code
+```
+
 ## Reference
 * Textbook
   - C++ Primer Plus, 6/e (中文版) (C++ Primer Plus, 6/e (Developer's Library)) (ISBN13 : `9789862766361`)
