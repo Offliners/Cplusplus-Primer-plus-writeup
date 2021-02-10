@@ -33,6 +33,8 @@ add this command to the preprocessor of the project
 $ cd Chapter                                       // cd to the Chapter you want
 $ ./test                                           // run the executable file
 $ g++ -o file_name main.cpp header.h source.cpp    // compile the code
+$ make                                             // compile all codes in this chapter
+$ make clean                                       // delete all .out file
 ```
 
 ## Reference
