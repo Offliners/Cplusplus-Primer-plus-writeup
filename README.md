@@ -40,7 +40,7 @@ $ make clean                                          // delete all .out file
 
 * `README`
 ```Makedown
-* name of executable file - [main.cpp]                // name of executable file - code
+* [name of executable file] - [main.cpp]                // name of executable file - code
 ```
 
 ## Reference
