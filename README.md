@@ -38,10 +38,10 @@ $ make                                                // compile all codes in th
 $ make clean                                          // delete all .out file
 ```
 
-* `Makedown`
+* `README`
 ```Makedown
 * name of executable file                             // name of executable file
-  * [man.cpp](main.cpp)                               // code
+  * [main.cpp](main.cpp)                              // code
 ```
 
 ## Reference
