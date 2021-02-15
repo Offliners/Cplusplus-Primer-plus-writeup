@@ -1,5 +1,7 @@
 #include<iostream>
+#include<cstring>
 #include"golf.h"
+
 using namespace std;
 
 void setgolf(golf& g, const char* name, int hc)
