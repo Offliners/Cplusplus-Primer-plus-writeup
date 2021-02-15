@@ -14,11 +14,12 @@
 * #### twofile
     * [twofile1.cpp](twofile1.cpp)
     * [twofile2.cpp](twofile2.cpp)
-* [static.cpp](static.cpp)
-* [newplace.cpp](newplace.cpp)
-* [namesp.h](namesp.h)
-* [namesp.cpp](namesp.cpp)
-* [usenmsp.cpp](usenmsp.cpp)
+* #### static - [static.cpp](static.cpp)
+* #### newplace - [newplace.cpp](newplace.cpp)
+* #### usenmsp
+    * [namesp.h](namesp.h)
+    * [namesp.cpp](namesp.cpp)
+    * [usenmsp.cpp](usenmsp.cpp)
 
 ### Exercise
 * #### 9_1
